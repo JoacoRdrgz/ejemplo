@@ -1,2 +1,2 @@
-# ejemplo
-ejemplo de git
+# ejemplo de uso de git
+este es un ejemplo de git
